@@ -5,10 +5,10 @@ import Event from "../assets/event-icon.png";
 
 const Skills = () => {
   return (
-    <div id="skills" className="w-full sm:h-screen bg-[#78a7ad]">
+    <div id="skills" className="w-full sm:h-screen bg-[#848a9c]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="text-4xl font-bold inline border-b-2 border-grey-500">
+          <p className="text-4xl font-bold inline border-b-4 border-[#6c6f78]">
             Skills
           </p>
           <p className="py-4">Take a look at my experiences</p>
